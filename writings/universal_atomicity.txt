@@ -1,0 +1,20 @@
+Universal Non-Hierarchical Atomicity
+
+In order to promote inclusiveness, prevent authoritarian dynamics, and minimize power imbalances that can occur as a result of differences in skill or knowledge, the Universal Non-Hierarchical Atomicist proposes that all community collaborations should consist primarily (ideally, only) of atomistic, 'Tweet-like' contributions from individuals.  Otherwise, the Universal Atomicist believes, individuals or groups with particular skills or training might tend to dominate group discussions, unduly influence the allocation of resources, or intimidate those without similar expertise into silence.
+ 
+An initial guiding metaphor adopted by proponents of Universal Atomicity is often that of the Ungoverned Wiki, which is, initially, considered to be an example of a non-hierarchical process from which coherent, useful content emerges from the 'micro-contributions' of many.
+
+Usually, this metaphor is ultimately considered inapt, and Universal Atomicists eventually come to view Ungoverned Wiki as incapable of spontaneously producing coherent content without the adoption of Governing Structures -- rules and procedures intended to channel and organize Atomistic Contributions into coherent, useful content.
+
+This perceived need for Governing Structures then usually leads proponents of Universal Atomicity to create the position of the community Coordinator.  
+
+The role of the Coordinator is to design and implement Governing Structures for Atomic Contributions, and to closely monitor community interactions for any deviations among the community from the Universal Atomicity ideal, guiding and sanctioning individuals as necessary.
+
+Governing Structures are usually designed to be as 'impersonal' as possible, in an effort to avoid any invocations of authority or hierarchy.  Governing Structures for Universal Atomicists are typically designed to operate through Automation  or via Restrictive Structure.  
+
+- Automation.  Algorithmic filters that enable automated processing of Atomistic community contributions into coherent content.  E.g. synthesized summaries of Atomistic content based on tags, keywords, or metrics. 
+
+- Restrictive Interfaces. Carefully-designed user interfaces that only allow for Coordinator-sanctioned modes of contribution.  Restrictive Interfaces are typically required for effective Automation.  Examples;  forms, fields, pre-formed categories that restrict the amount or type of content that individuals can contribute by e.g. limiting the number of characters or the amount of physical space for input, or enforcing a restricted set of labels for content type.
+
+Significant technological skill, and the use of sophisticated tools, are usually required for the development of Automation for Governing Structures, and for the design of the Restrictive Interfaces that render Automation possible. This concentration of expertise use of sophisticated tools on the part of Coordinator may appear to directly contradict the fundamental ethos of Universal Atomicity.  The force of this apparent contradiction may be somewhat blunted if the development of Governing Structures is primarily conducted via channels and technologies that lie outside those accessible to the majority of the community.
+
